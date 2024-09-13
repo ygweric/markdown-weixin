@@ -1,5 +1,14 @@
 # Markdown 转换微信公众帐号内容
 
+## install
+```
+pnpm i
+pnpm run watch
+pnpm run build
+```
+
+---
+
 一个在线将`Markdown`内容转换成微信公众帐号内容的工具。
 
 - 线上地址: <http://md.qikqiak.com/>
